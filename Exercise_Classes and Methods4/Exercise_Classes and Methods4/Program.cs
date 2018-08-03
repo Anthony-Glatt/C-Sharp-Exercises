@@ -8,12 +8,15 @@ namespace Exercise_Classes_and_Methods4
         static void Main(string[] args)
         {
             //2. In the Main() method of the console app, instantiate the class.
+           
+            Class1 multiplication = new Class1();
+
             //3. Call the method in the class, passing in two numbers.
-            Class1.Method1(10, 200);
-            Console.ReadLine();
+
+            multiplication.Method1(2, 5);
 
             //4. Call the method in the class, specifying the parameters by name.
-            Class1.Method1(num01: 10, num02: 200);
+            multiplication.Method1(num01: 10, num02: 200);
             Console.ReadLine();
 
         }
