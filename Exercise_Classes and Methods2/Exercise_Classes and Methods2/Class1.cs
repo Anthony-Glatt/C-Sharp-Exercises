@@ -7,21 +7,25 @@ namespace Exercise_Classes
     class Class1
     {
         // 1. Create a class. In that class, create a method that will take in an integer, do a math operation to it and then return the answer as an integer.
-        public static void Method1(int num01)
+        public int Method1(int num01)
         {
-            Console.WriteLine("Your number added to 20 equals: " + (num01 + 20));
+            int result = num01 + 20;
+            return result;
         }
 
         //3. Add a second method to the class, with the same name, that will take in a decimal, do a different math operation to it and then return the answer as an integer.
-        public static void Method1(decimal num01)
+        public decimal Method1(decimal num01)
         {
-            Console.WriteLine("Your number divided by 10 equals: " + (num01 / 10));
+            decimal result = num01 / 10;
+            return result;
         }
 
         //5. Add a third method to the class, with the same name, that will take in a string, convert it to an integer if possible, do a different math operation to it and then return the answer as an integer.
-        public static void Method1(string num01)
-        {   int num02 = Convert.ToInt32(num01);
-            Console.WriteLine("Your number mutliplied by 10 equals: " + (num02 * 10));
+        public int Method1(string num01)
+        {
+            int result = Convert.ToInt32(num01);
+            result = result * 5;
+            return result;
         }
     }
 }
