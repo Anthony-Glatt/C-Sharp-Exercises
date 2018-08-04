@@ -1,0 +1,11 @@
+C:\Users\Anthony\source\repos\DoWhileExercise\DoWhileExercise\obj\Debug\netcoreapp2.0\DoWhileExercise.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\DoWhileExercise\DoWhileExercise\obj\Debug\netcoreapp2.0\DoWhileExercise.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\DoWhileExercise\DoWhileExercise\obj\Debug\netcoreapp2.0\DoWhileExercise.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\DoWhileExercise\DoWhileExercise\obj\Debug\netcoreapp2.0\DoWhileExercise.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\DoWhileExercise\DoWhileExercise\bin\Debug\netcoreapp2.0\DoWhileExercise.deps.json
+C:\Users\Anthony\source\repos\DoWhileExercise\DoWhileExercise\bin\Debug\netcoreapp2.0\DoWhileExercise.runtimeconfig.json
+C:\Users\Anthony\source\repos\DoWhileExercise\DoWhileExercise\bin\Debug\netcoreapp2.0\DoWhileExercise.runtimeconfig.dev.json
+C:\Users\Anthony\source\repos\DoWhileExercise\DoWhileExercise\bin\Debug\netcoreapp2.0\DoWhileExercise.dll
+C:\Users\Anthony\source\repos\DoWhileExercise\DoWhileExercise\bin\Debug\netcoreapp2.0\DoWhileExercise.pdb
+C:\Users\Anthony\source\repos\DoWhileExercise\DoWhileExercise\obj\Debug\netcoreapp2.0\DoWhileExercise.dll
+C:\Users\Anthony\source\repos\DoWhileExercise\DoWhileExercise\obj\Debug\netcoreapp2.0\DoWhileExercise.pdb

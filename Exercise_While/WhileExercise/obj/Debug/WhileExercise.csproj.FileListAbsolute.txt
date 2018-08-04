@@ -1,0 +1,7 @@
+C:\Users\Anthony\source\repos\WhileExercise\WhileExercise\bin\Debug\WhileExercise.exe.config
+C:\Users\Anthony\source\repos\WhileExercise\WhileExercise\bin\Debug\WhileExercise.exe
+C:\Users\Anthony\source\repos\WhileExercise\WhileExercise\bin\Debug\WhileExercise.pdb
+C:\Users\Anthony\source\repos\WhileExercise\WhileExercise\obj\Debug\WhileExercise.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\WhileExercise\WhileExercise\obj\Debug\WhileExercise.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\WhileExercise\WhileExercise\obj\Debug\WhileExercise.exe
+C:\Users\Anthony\source\repos\WhileExercise\WhileExercise\obj\Debug\WhileExercise.pdb

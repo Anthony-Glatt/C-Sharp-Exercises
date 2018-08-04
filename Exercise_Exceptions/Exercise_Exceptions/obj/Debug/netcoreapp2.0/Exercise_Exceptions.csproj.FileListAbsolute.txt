@@ -1,0 +1,11 @@
+C:\Users\Anthony\source\repos\Exercise_Exceptions\Exercise_Exceptions\bin\Debug\netcoreapp2.0\Exercise_Exceptions.deps.json
+C:\Users\Anthony\source\repos\Exercise_Exceptions\Exercise_Exceptions\bin\Debug\netcoreapp2.0\Exercise_Exceptions.runtimeconfig.json
+C:\Users\Anthony\source\repos\Exercise_Exceptions\Exercise_Exceptions\bin\Debug\netcoreapp2.0\Exercise_Exceptions.runtimeconfig.dev.json
+C:\Users\Anthony\source\repos\Exercise_Exceptions\Exercise_Exceptions\bin\Debug\netcoreapp2.0\Exercise_Exceptions.dll
+C:\Users\Anthony\source\repos\Exercise_Exceptions\Exercise_Exceptions\bin\Debug\netcoreapp2.0\Exercise_Exceptions.pdb
+C:\Users\Anthony\source\repos\Exercise_Exceptions\Exercise_Exceptions\obj\Debug\netcoreapp2.0\Exercise_Exceptions.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Exercise_Exceptions\Exercise_Exceptions\obj\Debug\netcoreapp2.0\Exercise_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Exercise_Exceptions\Exercise_Exceptions\obj\Debug\netcoreapp2.0\Exercise_Exceptions.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\Exercise_Exceptions\Exercise_Exceptions\obj\Debug\netcoreapp2.0\Exercise_Exceptions.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\Exercise_Exceptions\Exercise_Exceptions\obj\Debug\netcoreapp2.0\Exercise_Exceptions.dll
+C:\Users\Anthony\source\repos\Exercise_Exceptions\Exercise_Exceptions\obj\Debug\netcoreapp2.0\Exercise_Exceptions.pdb

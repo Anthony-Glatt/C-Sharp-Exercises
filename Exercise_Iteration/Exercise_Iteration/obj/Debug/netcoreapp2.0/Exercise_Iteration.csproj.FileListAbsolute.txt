@@ -1,0 +1,10 @@
+C:\Users\Anthony\source\repos\Exercise_Iteration\Exercise_Iteration\bin\Debug\netcoreapp2.0\Exercise_Iteration.deps.json
+C:\Users\Anthony\source\repos\Exercise_Iteration\Exercise_Iteration\bin\Debug\netcoreapp2.0\Exercise_Iteration.runtimeconfig.json
+C:\Users\Anthony\source\repos\Exercise_Iteration\Exercise_Iteration\bin\Debug\netcoreapp2.0\Exercise_Iteration.runtimeconfig.dev.json
+C:\Users\Anthony\source\repos\Exercise_Iteration\Exercise_Iteration\bin\Debug\netcoreapp2.0\Exercise_Iteration.dll
+C:\Users\Anthony\source\repos\Exercise_Iteration\Exercise_Iteration\bin\Debug\netcoreapp2.0\Exercise_Iteration.pdb
+C:\Users\Anthony\source\repos\Exercise_Iteration\Exercise_Iteration\obj\Debug\netcoreapp2.0\Exercise_Iteration.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Exercise_Iteration\Exercise_Iteration\obj\Debug\netcoreapp2.0\Exercise_Iteration.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\Exercise_Iteration\Exercise_Iteration\obj\Debug\netcoreapp2.0\Exercise_Iteration.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\Exercise_Iteration\Exercise_Iteration\obj\Debug\netcoreapp2.0\Exercise_Iteration.dll
+C:\Users\Anthony\source\repos\Exercise_Iteration\Exercise_Iteration\obj\Debug\netcoreapp2.0\Exercise_Iteration.pdb
