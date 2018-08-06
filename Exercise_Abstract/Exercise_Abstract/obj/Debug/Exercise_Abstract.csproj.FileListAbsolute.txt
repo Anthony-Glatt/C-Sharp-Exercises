@@ -1,0 +1,7 @@
+C:\Users\Anthony\source\repos\Exercise_Abstract\Exercise_Abstract\bin\Debug\Exercise_Abstract.exe.config
+C:\Users\Anthony\source\repos\Exercise_Abstract\Exercise_Abstract\bin\Debug\Exercise_Abstract.exe
+C:\Users\Anthony\source\repos\Exercise_Abstract\Exercise_Abstract\bin\Debug\Exercise_Abstract.pdb
+C:\Users\Anthony\source\repos\Exercise_Abstract\Exercise_Abstract\obj\Debug\Exercise_Abstract.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Exercise_Abstract\Exercise_Abstract\obj\Debug\Exercise_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Exercise_Abstract\Exercise_Abstract\obj\Debug\Exercise_Abstract.exe
+C:\Users\Anthony\source\repos\Exercise_Abstract\Exercise_Abstract\obj\Debug\Exercise_Abstract.pdb
