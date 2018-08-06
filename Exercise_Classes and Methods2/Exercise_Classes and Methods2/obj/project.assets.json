@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anthony\\source\\repos\\Exercise_Classes and Methods2\\Exercise_Classes and Methods2\\Exercise_Classes and Methods2.csproj",
+      "projectUniqueName": "C:\\Users\\Anthony\\Documents\\GitHub\\Tech-Academy-Exercises\\Exercise_Classes and Methods2\\Exercise_Classes and Methods2\\Exercise_Classes and Methods2.csproj",
       "projectName": "Exercise_Classes and Methods2",
-      "projectPath": "C:\\Users\\Anthony\\source\\repos\\Exercise_Classes and Methods2\\Exercise_Classes and Methods2\\Exercise_Classes and Methods2.csproj",
+      "projectPath": "C:\\Users\\Anthony\\Documents\\GitHub\\Tech-Academy-Exercises\\Exercise_Classes and Methods2\\Exercise_Classes and Methods2\\Exercise_Classes and Methods2.csproj",
       "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anthony\\source\\repos\\Exercise_Classes and Methods2\\Exercise_Classes and Methods2\\obj\\",
+      "outputPath": "C:\\Users\\Anthony\\Documents\\GitHub\\Tech-Academy-Exercises\\Exercise_Classes and Methods2\\Exercise_Classes and Methods2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
