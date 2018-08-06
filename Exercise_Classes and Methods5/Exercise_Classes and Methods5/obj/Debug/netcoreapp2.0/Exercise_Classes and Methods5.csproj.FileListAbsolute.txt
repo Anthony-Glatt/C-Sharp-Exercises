@@ -1,0 +1,11 @@
+C:\Users\Anthony\source\repos\Exercise_Classes and Methods5\Exercise_Classes and Methods5\bin\Debug\netcoreapp2.0\Exercise_Classes and Methods5.deps.json
+C:\Users\Anthony\source\repos\Exercise_Classes and Methods5\Exercise_Classes and Methods5\bin\Debug\netcoreapp2.0\Exercise_Classes and Methods5.runtimeconfig.json
+C:\Users\Anthony\source\repos\Exercise_Classes and Methods5\Exercise_Classes and Methods5\bin\Debug\netcoreapp2.0\Exercise_Classes and Methods5.runtimeconfig.dev.json
+C:\Users\Anthony\source\repos\Exercise_Classes and Methods5\Exercise_Classes and Methods5\bin\Debug\netcoreapp2.0\Exercise_Classes and Methods5.dll
+C:\Users\Anthony\source\repos\Exercise_Classes and Methods5\Exercise_Classes and Methods5\bin\Debug\netcoreapp2.0\Exercise_Classes and Methods5.pdb
+C:\Users\Anthony\source\repos\Exercise_Classes and Methods5\Exercise_Classes and Methods5\obj\Debug\netcoreapp2.0\Exercise_Classes and Methods5.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Exercise_Classes and Methods5\Exercise_Classes and Methods5\obj\Debug\netcoreapp2.0\Exercise_Classes and Methods5.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Exercise_Classes and Methods5\Exercise_Classes and Methods5\obj\Debug\netcoreapp2.0\Exercise_Classes and Methods5.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\Exercise_Classes and Methods5\Exercise_Classes and Methods5\obj\Debug\netcoreapp2.0\Exercise_Classes and Methods5.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\Exercise_Classes and Methods5\Exercise_Classes and Methods5\obj\Debug\netcoreapp2.0\Exercise_Classes and Methods5.dll
+C:\Users\Anthony\source\repos\Exercise_Classes and Methods5\Exercise_Classes and Methods5\obj\Debug\netcoreapp2.0\Exercise_Classes and Methods5.pdb
