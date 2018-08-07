@@ -1,0 +1,7 @@
+C:\Users\Anthony\source\repos\Exercise_Operator Overloading\Exercise_Operator Overloading\obj\Debug\Exercise_Operator Overloading.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Exercise_Operator Overloading\Exercise_Operator Overloading\obj\Debug\Exercise_Operator Overloading.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Exercise_Operator Overloading\Exercise_Operator Overloading\bin\Debug\Exercise_Operator Overloading.exe.config
+C:\Users\Anthony\source\repos\Exercise_Operator Overloading\Exercise_Operator Overloading\bin\Debug\Exercise_Operator Overloading.exe
+C:\Users\Anthony\source\repos\Exercise_Operator Overloading\Exercise_Operator Overloading\bin\Debug\Exercise_Operator Overloading.pdb
+C:\Users\Anthony\source\repos\Exercise_Operator Overloading\Exercise_Operator Overloading\obj\Debug\Exercise_Operator Overloading.exe
+C:\Users\Anthony\source\repos\Exercise_Operator Overloading\Exercise_Operator Overloading\obj\Debug\Exercise_Operator Overloading.pdb
