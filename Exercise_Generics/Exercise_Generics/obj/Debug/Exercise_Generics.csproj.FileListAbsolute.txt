@@ -1,0 +1,7 @@
+C:\Users\Anthony\source\repos\Exercise_Generics\Exercise_Generics\bin\Debug\Exercise_Generics.exe.config
+C:\Users\Anthony\source\repos\Exercise_Generics\Exercise_Generics\bin\Debug\Exercise_Generics.exe
+C:\Users\Anthony\source\repos\Exercise_Generics\Exercise_Generics\bin\Debug\Exercise_Generics.pdb
+C:\Users\Anthony\source\repos\Exercise_Generics\Exercise_Generics\obj\Debug\Exercise_Generics.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Exercise_Generics\Exercise_Generics\obj\Debug\Exercise_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Exercise_Generics\Exercise_Generics\obj\Debug\Exercise_Generics.exe
+C:\Users\Anthony\source\repos\Exercise_Generics\Exercise_Generics\obj\Debug\Exercise_Generics.pdb
