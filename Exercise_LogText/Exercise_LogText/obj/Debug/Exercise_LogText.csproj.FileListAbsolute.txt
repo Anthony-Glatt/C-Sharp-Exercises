@@ -1,0 +1,7 @@
+C:\Users\Anthony\source\repos\Exercise_LogText\Exercise_LogText\bin\Debug\Exercise_LogText.exe.config
+C:\Users\Anthony\source\repos\Exercise_LogText\Exercise_LogText\bin\Debug\Exercise_LogText.exe
+C:\Users\Anthony\source\repos\Exercise_LogText\Exercise_LogText\bin\Debug\Exercise_LogText.pdb
+C:\Users\Anthony\source\repos\Exercise_LogText\Exercise_LogText\obj\Debug\Exercise_LogText.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Exercise_LogText\Exercise_LogText\obj\Debug\Exercise_LogText.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Exercise_LogText\Exercise_LogText\obj\Debug\Exercise_LogText.exe
+C:\Users\Anthony\source\repos\Exercise_LogText\Exercise_LogText\obj\Debug\Exercise_LogText.pdb
