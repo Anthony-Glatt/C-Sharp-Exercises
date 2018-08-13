@@ -1,0 +1,7 @@
+C:\Users\Anthony\source\repos\Exercise_DateTime\Exercise_DateTime\bin\Debug\Exercise_DateTime.exe.config
+C:\Users\Anthony\source\repos\Exercise_DateTime\Exercise_DateTime\bin\Debug\Exercise_DateTime.exe
+C:\Users\Anthony\source\repos\Exercise_DateTime\Exercise_DateTime\bin\Debug\Exercise_DateTime.pdb
+C:\Users\Anthony\source\repos\Exercise_DateTime\Exercise_DateTime\obj\Debug\Exercise_DateTime.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Exercise_DateTime\Exercise_DateTime\obj\Debug\Exercise_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Exercise_DateTime\Exercise_DateTime\obj\Debug\Exercise_DateTime.exe
+C:\Users\Anthony\source\repos\Exercise_DateTime\Exercise_DateTime\obj\Debug\Exercise_DateTime.pdb
