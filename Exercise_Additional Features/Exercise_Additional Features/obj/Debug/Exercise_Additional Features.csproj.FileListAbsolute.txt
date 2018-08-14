@@ -1,0 +1,7 @@
+C:\Users\Anthony\source\repos\Exercise_Additional Features\Exercise_Additional Features\bin\Debug\Exercise_Additional Features.exe.config
+C:\Users\Anthony\source\repos\Exercise_Additional Features\Exercise_Additional Features\bin\Debug\Exercise_Additional Features.exe
+C:\Users\Anthony\source\repos\Exercise_Additional Features\Exercise_Additional Features\bin\Debug\Exercise_Additional Features.pdb
+C:\Users\Anthony\source\repos\Exercise_Additional Features\Exercise_Additional Features\obj\Debug\Exercise_Additional Features.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Exercise_Additional Features\Exercise_Additional Features\obj\Debug\Exercise_Additional Features.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Exercise_Additional Features\Exercise_Additional Features\obj\Debug\Exercise_Additional Features.exe
+C:\Users\Anthony\source\repos\Exercise_Additional Features\Exercise_Additional Features\obj\Debug\Exercise_Additional Features.pdb
