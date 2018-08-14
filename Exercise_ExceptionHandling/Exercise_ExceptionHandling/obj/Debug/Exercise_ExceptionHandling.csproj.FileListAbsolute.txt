@@ -1,0 +1,7 @@
+C:\Users\Anthony\source\repos\Exercise_ExceptionHandling\Exercise_ExceptionHandling\bin\Debug\Exercise_ExceptionHandling.exe.config
+C:\Users\Anthony\source\repos\Exercise_ExceptionHandling\Exercise_ExceptionHandling\bin\Debug\Exercise_ExceptionHandling.exe
+C:\Users\Anthony\source\repos\Exercise_ExceptionHandling\Exercise_ExceptionHandling\bin\Debug\Exercise_ExceptionHandling.pdb
+C:\Users\Anthony\source\repos\Exercise_ExceptionHandling\Exercise_ExceptionHandling\obj\Debug\Exercise_ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Exercise_ExceptionHandling\Exercise_ExceptionHandling\obj\Debug\Exercise_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Exercise_ExceptionHandling\Exercise_ExceptionHandling\obj\Debug\Exercise_ExceptionHandling.exe
+C:\Users\Anthony\source\repos\Exercise_ExceptionHandling\Exercise_ExceptionHandling\obj\Debug\Exercise_ExceptionHandling.pdb
