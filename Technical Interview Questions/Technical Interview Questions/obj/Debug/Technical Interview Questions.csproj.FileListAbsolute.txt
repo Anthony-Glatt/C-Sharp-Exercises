@@ -1,0 +1,7 @@
+C:\Users\Anthony\source\repos\Technical Interview Questions\Technical Interview Questions\bin\Debug\Technical Interview Questions.exe.config
+C:\Users\Anthony\source\repos\Technical Interview Questions\Technical Interview Questions\bin\Debug\Technical Interview Questions.exe
+C:\Users\Anthony\source\repos\Technical Interview Questions\Technical Interview Questions\bin\Debug\Technical Interview Questions.pdb
+C:\Users\Anthony\source\repos\Technical Interview Questions\Technical Interview Questions\obj\Debug\Technical Interview Questions.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\Technical Interview Questions\Technical Interview Questions\obj\Debug\Technical Interview Questions.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Technical Interview Questions\Technical Interview Questions\obj\Debug\Technical Interview Questions.exe
+C:\Users\Anthony\source\repos\Technical Interview Questions\Technical Interview Questions\obj\Debug\Technical Interview Questions.pdb
